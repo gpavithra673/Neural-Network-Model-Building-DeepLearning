@@ -7,8 +7,7 @@
 Write a python code to convert the categorical input to numeric values and  convert the categorical output to numeric values.  Build a TensorFlow model with an appropriate activation function and the number of neurons in the output layer. Draw the neural network architecture for your model using the following website
 http://alexlenail.me/NN-SVG/index.html
 ## Neural Network Model
-
-Include the neural network model diagram.
+![image](https://github.com/gpavithra673/Neural-Network-Model-Building-DeepLearning/assets/93427264/c8a1fa24-80ff-4e6d-aa06-c688c311f376)
 
 ## DESIGN STEPS
 
